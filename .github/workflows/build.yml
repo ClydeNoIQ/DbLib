@@ -1,4 +1,4 @@
-name: Build JAR
+name: Build Plugin JAR
 
 on:
   push: # Run on every new commit
